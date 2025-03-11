@@ -12,4 +12,3 @@
 ## 📬 Get in Touch  
 📧 Email: josemariamlebre@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/jose-maria-lebre/)  
-🌐 [Portfolio](https://JoseMariaLebre.github.io)  
