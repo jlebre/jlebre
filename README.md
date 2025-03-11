@@ -4,7 +4,7 @@
 🚀 Exploring Python, Django, React, and Web Development.  
 
 ## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseMariaLebre&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jlebre&show_icons=true&theme=radical)
 
 ## 🔧 Technologies & Tools  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
