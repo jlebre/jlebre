@@ -11,4 +11,4 @@
 
 ## 📬 Get in Touch  
 📧 Email: josemariamlebre@gmail.com  
-💼 [LinkedIn][https://linkedin.com/in/jose-maria-lebre/](https://www.linkedin.com/in/jose-maria-lebre/)  
+💼 LinkedIn: [https://linkedin.com/in/jose-maria-lebre/](https://www.linkedin.com/in/jose-maria-lebre/)  
