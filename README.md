@@ -1,7 +1,7 @@
 # Hi, I'm José Maria Lebre! 👋  
 🎸 Passionate about technology, software development, and music.  
 💼 Currently looking for software development opportunities.  
-🚀 Exploring Python, Django, React, and Web Development.
+🚀 Exploring Python, Django, React, and Web Development.  
 🎓 Finished the course at 42 Lisboa, check out my projects [here](https://github.com/jlebre/42Lisboa).  
 
 ## 🔧 Technologies & Tools  
